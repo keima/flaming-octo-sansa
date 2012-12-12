@@ -17,6 +17,7 @@ import android.widget.Button;
 
 public class MainActivity extends Activity {
 
+	// サウンドファイル名
     private static final String RECORDED_AUDIO = "sound.3gp";
     private MediaPlayer mPlayer;
     private MediaRecorder mRecorder;
