@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">録音と再生</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="start_record">録音開始</string>
+    <string name="stop_record">録音終了</string>
+    <string name="play_sound">再生開始</string>
+    <string name="stop_sound">停止</string>
+
+</resources>
